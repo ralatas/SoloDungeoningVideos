@@ -1,0 +1,33 @@
+{
+  "baseUrl": "https://ralatas.github.io/SoloDungeoningVideos/videos/",
+  "videos": [
+    {
+      "key": "INTRO_EN",
+      "path": "preview_en.mp4"
+    },
+    {
+      "key": "INTRO_RU",
+      "path": "preview_en.mp4"
+    },
+    {
+      "key": "INTRO_GE",
+      "path": "preview_en.mp4"
+    },
+    {
+      "key": "INTRO_JP",
+      "path": "preview_en.mp4"
+    },
+    {
+      "key": "INTRO_KR",
+      "path": "preview_en.mp4"
+    },
+    {
+      "key": "INTRO_ES",
+      "path": "preview_en.mp4"
+    },
+    {
+      "key": "INTRO_TH",
+      "path": "preview_en.mp4"
+    }
+  ]
+}
