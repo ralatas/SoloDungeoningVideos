@@ -1,13 +1,13 @@
 {
   "baseUrl": "https://ralatas.github.io/SoloDungeoningVideos/videos/",
   "videos": [
-    { "key": "INTRO_EN", "path": "preview_en.mp4" },
-    { "key": "INTRO_RU", "path": "preview_en.mp4" },
-    { "key": "INTRO_GE", "path": "preview_en.mp4" },
-    { "key": "INTRO_JP", "path": "preview_en.mp4" },
-    { "key": "INTRO_KR", "path": "preview_en.mp4" },
-    { "key": "INTRO_ES", "path": "preview_en.mp4" },
-    { "key": "INTRO_TH", "path": "preview_en.mp4" },
+    { "key": "INTRO_EN", "path": "INTRO_en.mp4" },
+    { "key": "INTRO_RU", "path": "INTRO_en.mp4" },
+    { "key": "INTRO_GE", "path": "INTRO_en.mp4" },
+    { "key": "INTRO_JP", "path": "INTRO_en.mp4" },
+    { "key": "INTRO_KR", "path": "INTRO_en.mp4" },
+    { "key": "INTRO_ES", "path": "INTRO_en.mp4" },
+    { "key": "INTRO_TH", "path": "INTRO_en.mp4" },
 
     { "key": "SouthKoreaD1_EN", "path": "temp.mp4" },
     { "key": "SouthKoreaD2_EN", "path": "temp.mp4" },
